@@ -1,7 +1,7 @@
 # Banking Management System
 
+![bank](https://github.com/arbaz686/banking-system/assets/72914115/426a4326-6b57-4bdc-9d80-0ccfc452bdd7)
 
-![Banking Management System]([https://github.com/arbaz686/banking-system/images/bank.jpg])
 
 The Banking Management System is a C++ console-based application that provides a comprehensive solution for managing customer accounts, transactions, and account-related operations. This system enables users to perform various tasks related to banking operations efficiently.
 
